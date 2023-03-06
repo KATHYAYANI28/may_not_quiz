@@ -91,10 +91,11 @@
             android:textColor="@color/black" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/btnLogin1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Don't have an account? SignUp"
+            android:paddingTop="10dp"
+            android:text="Already have an account? Login"
             android:textAlignment="center" />
     </LinearLayout><![CDATA[
 
