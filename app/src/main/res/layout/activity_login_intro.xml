@@ -34,7 +34,7 @@
         app:layout_constraintVertical_bias="0.881" />
 
     <Button
-        android:id="@+id/GetStartedbtn"
+        android:id="@+id/GetStartedbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:width="200sp"

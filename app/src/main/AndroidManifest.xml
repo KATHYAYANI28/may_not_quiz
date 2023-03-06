@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Maynotbe"
         tools:targetApi="31">
         <activity
-            android:name=".loginIntro"
+            android:name=".signup"
             android:exported="true">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -21,10 +21,10 @@
         </intent-filter>
         </activity>
         <activity
-            android:name=".signup"
+            android:name=".login"
          />
         <activity
-            android:name=".login"
+            android:name=".loginIntro"
            />
         <activity
             android:name=".MainActivity"
